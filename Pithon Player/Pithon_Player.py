@@ -1,6 +1,6 @@
 """
 Program name: Pithon Player
-Author: Ricardo Lopes (Alex.js)
+Author: *REDACTED*
 Original Release Date: 24/03/20
 Latest Build Release Date: 15/07/20
 Build: 3.1
